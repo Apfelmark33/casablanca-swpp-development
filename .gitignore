@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+*.log
+presentation/.slidev
+examples/app/react-app/dist
