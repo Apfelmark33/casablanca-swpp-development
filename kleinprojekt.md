@@ -43,16 +43,3 @@ Aufgabenpakete für die Umsetzung mit GitHub Copilot:
 
 ---
 
-## 4. Umsetzung & Copilot Prompts (Flow)
-*Schritte für die Live-Demo im VS Code:*
-
-* **Initialer Prompt (App-Struktur):** > "Erstelle eine React-Komponente mit Tailwind CSS für eine Einkaufsliste. Ich brauche ein Input-Feld, einen Hinzufügen-Button und eine Liste von Items."
-* **Logik-Prompt (Storage):** > "Implementiere einen `useEffect` Hook, der die Liste im localStorage speichert und beim Laden wieder ausliest."
-* **UI-Refactoring:** > "Verbessere das Design: Nutze eine Checkbox-Optik für erledigte Items und mache die Liste auf mobilen Geräten gut bedienbar (Abstände, Schriftgröße)."
-
----
-
-## 5. Workshop-Checkliste (Key Takeaways)
-* **KI ersetzt nicht das Denken:** Der Mensch gibt die Richtung und Struktur vor.
-* **Gute Anforderungen = Guter Code:** Ohne das PRD (Schritt 2) wäre das Ergebnis ungenau.
-* **Iterative Verbesserung:** Erst die Funktion bauen, dann das UI "polieren".
